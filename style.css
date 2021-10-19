@@ -1,0 +1,14 @@
+html, body {
+ margin-left: 10rem; 
+  padding: 0;
+}
+h1{
+  margin-left: 250px;
+}
+h1:hover{
+  text-shadow: 0px 0px 5px yellow,0px -5px 5px orangered;
+  font-size: 2.5rem;
+}
+canvas {
+  display: block;
+}
